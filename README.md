@@ -1,3 +1,5 @@
+Inspire and custommize from evobot.
+
 ## Requirements
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
